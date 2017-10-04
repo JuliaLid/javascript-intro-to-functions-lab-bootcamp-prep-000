@@ -24,5 +24,3 @@ var whisper = 'hello'
 function sayHiToGrandma(shout){
   return('YES INDEED!')
 }
-
-
