@@ -19,6 +19,8 @@ function sayHiToGrandma(whisper){
   return ('I can\'t hear you!')
 }
 
+var whisper = 'hello'
+
 function sayHiToGrandma(shout){
   return('YES INDEED!')
 }
